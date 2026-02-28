@@ -40,6 +40,14 @@ static char *TranslateExec[] = {
     "GLUL", "glulx",
     "TAD2", "tads2",
     "TAD3", "tads3",
+    "HUGO", "hugo",
+    "ALAN", "alan",
+    "ADRI", "adrift",
+    "LEVE", "level9",
+    "AGT ", "agt",
+    "MAGS", "magscrolls",
+    "ADVS", "advsys",
+    "EXEC", "executable",
     NULL, NULL
 };
 
