@@ -83,5 +83,8 @@ test/quest/modern.quest         New-style Quest package fixture
 test/quest/raw.aslx             Raw ASLX fixture
 test/quest/sample.asl           Quest 1-4 ASL fixture
 test/quest/sample.cas           Quest 1-4 CAS header fixture
+test/quest/expected-asl.iFiction Expected ASL Quest iFiction
+test/quest/expected-cas.iFiction Expected CAS Quest iFiction
+test/quest/expected-legacy.iFiction Expected legacy Quest iFiction
 test/quest/expected-modern.iFiction Expected modern Quest iFiction
 
